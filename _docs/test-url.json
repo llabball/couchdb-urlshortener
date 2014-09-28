@@ -1,0 +1,7 @@
+{
+	"_id": "test-url",
+	"edited_at": "2014-02-02T16:55:26.158Z",
+	"url": "http://blog.lbl.io/post/url-shortening-with-couchdb",
+	"created_at": "2014-02-02T16:55:26.158Z",
+	"type": "shorturl"
+}

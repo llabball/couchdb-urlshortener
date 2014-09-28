@@ -1,0 +1,14 @@
+[
+  {
+    "from": "url/create",
+    "to": "_update/shorturl",
+    "method": "*",
+    "query": {
+    	"path": "create"
+    }
+  },{
+    "from": "url/:pid",
+    "to": "_update/shorturl/:pid",
+    "method": "*"
+  }
+]

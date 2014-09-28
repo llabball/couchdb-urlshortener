@@ -1,0 +1,5 @@
+{
+    "name": "UrlShortener",
+    "description": "An API to shorten and forward long urls.",
+    "version": "1.0.0"
+}
